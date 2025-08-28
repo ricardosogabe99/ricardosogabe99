@@ -14,7 +14,7 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, com foco em criar 
 - Outros: Git, GitHub, Figma  
 
 ## 📂 Projetos em Destaque
-- [📌 Projeto 1](README.md) – uma canal de comunição entre pais e a escola para envio de avisos, reuniao com docentes e gestores, e uma ouvidoria para recebimento de reclamações ou sugestões de melhoria do ambiente escolar
+- [📌 Projeto 1] (https://github.com/ricardosogabe99/primeiro-projeto-no-github)) – uma canal de comunição entre pais e a escola para envio de avisos, reuniao com docentes e gestores, e uma ouvidoria para recebimento de reclamações ou sugestões de melhoria do ambiente escolar
    
 ## 🌐 Conecte-se comigo
 - LinkedIn: www.linkedin.com/in/ricardo-tanji-8a20451b1
