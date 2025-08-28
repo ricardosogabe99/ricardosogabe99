@@ -18,5 +18,5 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, com foco em criar 
    
 ## 🌐 Conecte-se comigo
 - LinkedIn: www.linkedin.com/in/ricardo-tanji-8a20451b1
-- Github: 
+- Github: https://github.com/settings/profile
 
